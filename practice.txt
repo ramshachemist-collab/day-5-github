@@ -1,1 +1,2 @@
 I am practicing Git and Github.
+I cloned my repository in a fresh folder!
